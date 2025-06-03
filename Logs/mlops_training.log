@@ -135,3 +135,5 @@ weighted avg       0.94      0.94      0.94       300
 weighted avg       0.94      0.94      0.94       300
 
 2025-06-03 17:15:25 - INFO - Predicted Diagnosis: 1
+2025-06-03 17:16:59 - INFO - Predicted Diagnosis: No Cancer Detected
+2025-06-03 17:17:16 - INFO - Predicted Diagnosis: Cancer Detected
