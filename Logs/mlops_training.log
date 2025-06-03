@@ -1,0 +1,137 @@
+2025-06-03 16:52:36 - ERROR - Artifact not found: Artifacts\data_processing_pipeline.pkl
+2025-06-03 16:52:36 - ERROR - Artifact not found: Artifacts\best_classifier.pkl
+2025-06-03 16:52:36 - ERROR - Artifact not found: Artifacts\label_encoder.pkl
+2025-06-03 17:02:59 - INFO - \U0001f680 Starting Data Processing Step
+2025-06-03 17:02:59 - INFO - \u2705 Loaded dataset: 1500 rows, 9 columns
+2025-06-03 17:02:59 - INFO - Label encoder saved at Artifacts\label_encoder.pkl
+2025-06-03 17:02:59 - INFO - \u2705 Target variable encoded and saved at Artifacts\label_encoder.pkl
+2025-06-03 17:02:59 - INFO - Data pipeline created.
+2025-06-03 17:02:59 - INFO - Data pipeline saved at Artifacts\data_processing_pipeline.pkl
+2025-06-03 17:02:59 - INFO - \u2705 Data pipeline created and saved at Artifacts\data_processing_pipeline.pkl
+2025-06-03 17:02:59 - INFO - Data split into train and validation sets with test size=0.2
+2025-06-03 17:02:59 - INFO - \u2705 Data split completed
+2025-06-03 17:02:59 - INFO - Model trained and saved at Artifacts\best_classifier.pkl
+2025-06-03 17:02:59 - INFO - \u2705 Model trained and saved at Artifacts\best_classifier.pkl
+2025-06-03 17:03:00 - INFO - Model loaded successfully.
+2025-06-03 17:03:00 - INFO - \u2705 Predictions completed
+2025-06-03 17:03:00 - INFO - Model loaded successfully.
+2025-06-03 17:03:00 - INFO - Model evaluation completed.
+2025-06-03 17:03:00 - INFO - Confusion Matrix:
+[[178   6]
+ [ 12 104]]
+2025-06-03 17:03:00 - INFO - Accuracy Score: 0.94
+2025-06-03 17:03:00 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.97      0.95       184
+           1       0.95      0.90      0.92       116
+
+    accuracy                           0.94       300
+   macro avg       0.94      0.93      0.94       300
+weighted avg       0.94      0.94      0.94       300
+
+2025-06-03 17:03:00 - INFO - \u2705 Model evaluation completed
+2025-06-03 17:03:00 - INFO - Confusion Matrix:
+[[178   6]
+ [ 12 104]]
+2025-06-03 17:03:00 - INFO - Accuracy Score: 0.94
+2025-06-03 17:03:00 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.97      0.95       184
+           1       0.95      0.90      0.92       116
+
+    accuracy                           0.94       300
+   macro avg       0.94      0.93      0.94       300
+weighted avg       0.94      0.94      0.94       300
+
+2025-06-03 17:07:16 - INFO - \U0001f680 Starting Data Processing Step
+2025-06-03 17:07:16 - INFO - \u2705 Loaded dataset: 1500 rows, 9 columns
+2025-06-03 17:07:16 - INFO - Label encoder saved at Artifacts\label_encoder.pkl
+2025-06-03 17:07:16 - INFO - \u2705 Target variable encoded and saved at Artifacts\label_encoder.pkl
+2025-06-03 17:07:16 - INFO - Data pipeline created.
+2025-06-03 17:07:16 - INFO - Data pipeline saved at Artifacts\data_processing_pipeline.pkl
+2025-06-03 17:07:16 - INFO - \u2705 Data pipeline created and saved at Artifacts\data_processing_pipeline.pkl
+2025-06-03 17:07:16 - INFO - Data split into train and validation sets with test size=0.2
+2025-06-03 17:07:16 - INFO - \u2705 Data split completed
+2025-06-03 17:07:16 - INFO - Model trained and saved at Artifacts\best_classifier.pkl
+2025-06-03 17:07:16 - INFO - \u2705 Model trained and saved at Artifacts\best_classifier.pkl
+2025-06-03 17:07:16 - INFO - Model loaded successfully.
+2025-06-03 17:07:16 - INFO - \u2705 Predictions completed
+2025-06-03 17:07:16 - INFO - Model loaded successfully.
+2025-06-03 17:07:16 - INFO - Model evaluation completed.
+2025-06-03 17:07:16 - INFO - Confusion Matrix:
+[[178   6]
+ [ 12 104]]
+2025-06-03 17:07:16 - INFO - Accuracy Score: 0.94
+2025-06-03 17:07:16 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.97      0.95       184
+           1       0.95      0.90      0.92       116
+
+    accuracy                           0.94       300
+   macro avg       0.94      0.93      0.94       300
+weighted avg       0.94      0.94      0.94       300
+
+2025-06-03 17:08:11 - INFO - \U0001f680 Starting Data Processing Step
+2025-06-03 17:08:11 - INFO - \u2705 Loaded dataset: 1500 rows, 9 columns
+2025-06-03 17:08:11 - INFO - Label encoder saved at Artifacts\label_encoder.pkl
+2025-06-03 17:08:11 - INFO - \u2705 Target variable encoded and saved at Artifacts\label_encoder.pkl
+2025-06-03 17:08:11 - INFO - Data pipeline created.
+2025-06-03 17:08:11 - INFO - Data pipeline saved at Artifacts\data_processing_pipeline.pkl
+2025-06-03 17:08:11 - INFO - \u2705 Data pipeline created and saved at Artifacts\data_processing_pipeline.pkl
+2025-06-03 17:08:11 - INFO - Data split into train and validation sets with test size=0.2
+2025-06-03 17:08:11 - INFO - \u2705 Data split completed
+2025-06-03 17:08:11 - INFO - Model trained and saved at Artifacts\best_classifier.pkl
+2025-06-03 17:08:11 - INFO - \u2705 Model trained and saved at Artifacts\best_classifier.pkl
+2025-06-03 17:08:11 - INFO - Model loaded successfully.
+2025-06-03 17:08:11 - INFO - \u2705 Predictions completed
+2025-06-03 17:08:11 - INFO - Model loaded successfully.
+2025-06-03 17:08:12 - INFO - \u2705 Model evaluation completed
+2025-06-03 17:08:12 - INFO - Confusion Matrix:
+[[178   6]
+ [ 12 104]]
+2025-06-03 17:08:12 - INFO - Accuracy Score: 0.94
+2025-06-03 17:08:12 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.97      0.95       184
+           1       0.95      0.90      0.92       116
+
+    accuracy                           0.94       300
+   macro avg       0.94      0.93      0.94       300
+weighted avg       0.94      0.94      0.94       300
+
+2025-06-03 17:09:29 - INFO - Predicted Diagnosis: 0
+2025-06-03 17:09:55 - INFO - Predicted Diagnosis: 1
+2025-06-03 17:14:40 - INFO - \U0001f680 Starting Data Processing Step
+2025-06-03 17:14:40 - INFO - \u2705 Loaded dataset: 1500 rows, 9 columns
+2025-06-03 17:14:40 - INFO - Label encoder saved at Artifacts\label_encoder.pkl
+2025-06-03 17:14:40 - INFO - \u2705 Target variable encoded and saved at Artifacts\label_encoder.pkl
+2025-06-03 17:14:40 - INFO - Data pipeline created.
+2025-06-03 17:14:40 - INFO - Data pipeline saved at Artifacts\data_processing_pipeline.pkl
+2025-06-03 17:14:40 - INFO - \u2705 Data pipeline created and saved at Artifacts\data_processing_pipeline.pkl
+2025-06-03 17:14:40 - INFO - Data split into train and validation sets with test size=0.2
+2025-06-03 17:14:40 - INFO - \u2705 Data split completed
+2025-06-03 17:14:40 - INFO - Model trained and saved at Artifacts\best_classifier.pkl
+2025-06-03 17:14:40 - INFO - \u2705 Model trained and saved at Artifacts\best_classifier.pkl
+2025-06-03 17:14:40 - INFO - Model loaded successfully.
+2025-06-03 17:14:40 - INFO - \u2705 Predictions completed
+2025-06-03 17:14:40 - INFO - Model loaded successfully.
+2025-06-03 17:14:40 - INFO - \u2705 Model evaluation completed
+2025-06-03 17:14:40 - INFO - Confusion Matrix:
+[[178   6]
+ [ 12 104]]
+2025-06-03 17:14:40 - INFO - Accuracy Score: 0.94
+2025-06-03 17:14:40 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.97      0.95       184
+           1       0.95      0.90      0.92       116
+
+    accuracy                           0.94       300
+   macro avg       0.94      0.93      0.94       300
+weighted avg       0.94      0.94      0.94       300
+
+2025-06-03 17:15:25 - INFO - Predicted Diagnosis: 1
